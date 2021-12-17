@@ -1,0 +1,41 @@
+body{
+    padding-top: 3em;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #009dff;
+  }
+  
+  .container{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 20px;
+  }
+  
+  .divS{
+    color: royalblue;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    padding: 30px;
+  }
+  
+  img{
+    height: 10em;
+  }
+  
+  .borderRight{
+    border-right: 1px solid grey;
+  }
+  
+  hr{
+    margin: 0 2.5em 0 2.5em;
+  }
+  
+  
