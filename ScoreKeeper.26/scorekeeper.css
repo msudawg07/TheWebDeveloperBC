@@ -1,0 +1,40 @@
+/* *{
+    border: 1px solid red;
+} */
+
+.img, .tennis{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+img { 
+    width: 400px;
+    border: 2px solid grey;
+    padding: 5px;
+}
+
+.tennisText{
+    width: 400px;
+    text-align: center;
+    border: 2px solid grey;
+    padding: 5px;
+}
+
+button{
+    width: 133.3px;
+}
+
+.centerDivs{
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+}
+
+.bottomCon{
+  border: 1px solid red;
+  margin: auto;
+  width: 400px;
+  border: 2px solid grey;
+  padding: 5px;
+}
