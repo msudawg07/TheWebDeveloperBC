@@ -17,14 +17,11 @@ for (let click of button) {
     )
 }
 
-
 function disableButtons() {
     button.forEach(elem => {
         elem.disabled = true
     })
 }
-
-
 
 let reset = document.querySelector('.reset');
 reset.addEventListener('click', () => {
