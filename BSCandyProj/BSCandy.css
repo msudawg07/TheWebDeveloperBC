@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+
+.cardCon{
+    border: none !important;
+}
+
+.navBG.scrolled{
+    background: green;
+}
+
+.cardBg{
+    background-color: pink;
+}
+
+span{
+    color: hotpink;
+}
